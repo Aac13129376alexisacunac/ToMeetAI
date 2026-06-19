@@ -336,7 +336,7 @@ export default function App() {
                 <Wine className="w-5.5 h-5.5 text-[#B29235]" />
               </div>
               <div>
-                <h1 className="text-2xl font-serif italic text-[#B29235] tracking-tight text-left">AcomodaAI</h1>
+                <h1 className="text-2xl font-serif italic text-[#B29235] tracking-tight text-left"></h1>
                 <p className="text-[10px] text-slate-400 uppercase tracking-widest font-mono text-left">Pase Digital de Asiento</p>
               </div>
             </div>

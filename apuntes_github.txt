@@ -1,3 +1,7 @@
+clave github
+13129376Aac.#
+
+
 PS C:\Users\Alexis\Downloads\tomeetai> git init
 git : El término 'git' no se reconoce como nombre de un cmdlet, función, 
 archivo de script o programa ejecutable. Compruebe si escribió 
