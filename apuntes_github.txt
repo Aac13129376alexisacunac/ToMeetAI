@@ -1,0 +1,220 @@
+PS C:\Users\Alexis\Downloads\tomeetai> git init
+git : El término 'git' no se reconoce como nombre de un cmdlet, función, 
+archivo de script o programa ejecutable. Compruebe si escribió 
+correctamente el nombre o, si incluyó una ruta de acceso, compruebe que 
+dicha ruta es correcta e inténtelo de nuevo.
+En línea: 1 Carácter: 1
++ git init
++ ~~~
+    + CategoryInfo          : ObjectNotFound: (git:String) [], CommandNo 
+   tFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+PS C:\Users\Alexis\Downloads\tomeetai> git init
+>> git add .
+>> git commit -m "Initial ToMeetAI release"
+git : El término 'git' no se reconoce como nombre de un cmdlet, función, 
+archivo de script o programa ejecutable. Compruebe si escribió 
+correctamente el nombre o, si incluyó una ruta de acceso, compruebe que 
+dicha ruta es correcta e inténtelo de nuevo.
+En línea: 1 Carácter: 1
++ git init
++ ~~~
+    + CategoryInfo          : ObjectNotFound: (git:String) [], CommandNo 
+   tFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+git : El término 'git' no se reconoce como nombre de un cmdlet, función, 
+archivo de script o programa ejecutable. Compruebe si escribió 
+correctamente el nombre o, si incluyó una ruta de acceso, compruebe que 
+dicha ruta es correcta e inténtelo de nuevo.
+En línea: 2 Carácter: 1
++ git add .
++ ~~~
+    + CategoryInfo          : ObjectNotFound: (git:String) [], CommandNo 
+   tFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+git : El término 'git' no se reconoce como nombre de un cmdlet, función, 
+archivo de script o programa ejecutable. Compruebe si escribió 
+correctamente el nombre o, si incluyó una ruta de acceso, compruebe que 
+dicha ruta es correcta e inténtelo de nuevo.
+En línea: 3 Carácter: 1
++ git commit -m "Initial ToMeetAI release"
++ ~~~
+    + CategoryInfo          : ObjectNotFound: (git:String) [], CommandNo 
+   tFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+PS C:\Users\Alexis\Downloads\tomeetai> git init
+git : El término 'git' no se reconoce como nombre de un cmdlet, función, 
+archivo de script o programa ejecutable. Compruebe si escribió 
+correctamente el nombre o, si incluyó una ruta de acceso, compruebe que 
+dicha ruta es correcta e inténtelo de nuevo.
+En línea: 1 Carácter: 1
++ git init
++ ~~~
+    + CategoryInfo          : ObjectNotFound: (git:String) [], CommandNo 
+   tFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+PS C:\Users\Alexis\Downloads\tomeetai> 
+ *  History restored 
+
+PS C:\Users\Alexis\Downloads\tomeetai> git init
+Initialized empty Git repository in C:/Users/Alexis/Downloads/tomeetai/.git/
+PS C:\Users\Alexis\Downloads\tomeetai> git add .
+>> git commit -m "Initial ToMeetAI release"
+warning: in the working copy of '.env.example', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of '.gitignore', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'metadata.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'package.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/App.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/index.css', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/main.tsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/translations.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/types.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/utils.ts', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'tsconfig.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'vite.config.ts', LF will be replaced by CRLF the next time Git touches it
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'Alexis@HG-AACUNA.(none)')
+PS C:\Users\Alexis\Downloads\tomeetai> git remote add origin https://github.com/Aac13129376alexisacunac/ToMeetAI.git
+>> git branch -M main
+>> git push -u origin main
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/Aac13129376alexisacunac/ToMeetAI.git'
+PS C:\Users\Alexis\Downloads\tomeetai> git remote add origin https://github.com/Aac13129376alexisacunac/ToMeetAI.git
+>> git branch -M main
+>> git push -u origin main
+>> 
+error: remote origin already exists.
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/Aac13129376alexisacunac/ToMeetAI.git'
+PS C:\Users\Alexis\Downloads\tomeetai> 
+PS C:\Users\Alexis\Downloads\tomeetai> git remote add origin https://github.com/Aac13129376alexisacunac/ToMeetAI.git
+>> git branch -M main
+>> git push -u origin main
+>> 
+error: remote origin already exists.
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/Aac13129376alexisacunac/ToMeetAI.git'
+PS C:\Users\Alexis\Downloads\tomeetai> git remote add origin https://github.com/Aac13129376alexisacunac/ToMeetAI.git
+>> git branch -M main
+>> git push -u origin main
+error: remote origin already exists.
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/Aac13129376alexisacunac/ToMeetAI.git'
+PS C:\Users\Alexis\Downloads\tomeetai> git init
+>> git add README.md
+>> git commit -m "first commit"
+>> git branch -M main
+>> git remote add origin https://github.com/Aac13129376alexisacunac/ToMeetAI.git
+>> git push -u origin main
+Reinitialized existing Git repository in C:/Users/Alexis/Downloads/tomeetai/.git/
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'Alexis@HG-AACUNA.(none)')
+error: remote origin already exists.
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/Aac13129376alexisacunac/ToMeetAI.git'
+PS C:\Users\Alexis\Downloads\tomeetai> 
+PS C:\Users\Alexis\Downloads\tomeetai> git remote add origin https://github.com/Aac13129376alexisacunac/ToMeetAI.git
+error: remote origin already exists.
+PS C:\Users\Alexis\Downloads\tomeetai> git remote add origin https://github.com/Aac13129376alexisacunac/ToMeetAI.git
+error: remote origin already exists.
+PS C:\Users\Alexis\Downloads\tomeetai> git branch -M main
+>> git push -u origin main
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/Aac13129376alexisacunac/ToMeetAI.git'
+PS C:\Users\Alexis\Downloads\tomeetai> git branch -M main                                                           
+PS C:\Users\Alexis\Downloads\tomeetai> git push -u origin main
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/Aac13129376alexisacunac/ToMeetAI.git'
+PS C:\Users\Alexis\Downloads\tomeetai> git branch
+PS C:\Users\Alexis\Downloads\tomeetai> git branch -M main
+>> git push -u origin main
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/Aac13129376alexisacunac/ToMeetAI.git'
+PS C:\Users\Alexis\Downloads\tomeetai> git init
+>> git add .
+>> git commit -m "Initial commit"
+>> git branch -M main
+>> git remote add origin https://github.com/Aac13129376alexisacunac/ToMeetAI.git
+>> git push -u origin main
+Reinitialized existing Git repository in C:/Users/Alexis/Downloads/tomeetai/.git/
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'Alexis@HG-AACUNA.(none)')
+error: remote origin already exists.
+error: src refspec main does not match any
+error: failed to push some refs to 'httgit config --global user.name "Alexis Acuña"etAI.git'
+>> git config --global user.email "alexisacunac@gmail.com"
+PS C:\Users\Alexis\Downloads\tomeetai> git add .
+>> git commit -m "Primer commit"
+>> 
+>> git branch -M main
+>> git remote set-url origin https://github.com/Aac13129376alexisacunac/ToMeetAI.git
+>> git push -u origin main
+[main (root-commit) 2aa0fe9] Primer commit
+ 14 files changed, 3546 insertions(+)
+ create mode 100644 .env.example
+ create mode 100644 .gitignore
+ create mode 100644 README.md
+ create mode 100644 index.html
+ create mode 100644 metadata.json
+ create mode 100644 package.json
+ create mode 100644 src/App.tsx
+ create mode 100644 src/index.css
+ create mode 100644 src/main.tsx
+ create mode 100644 src/translations.ts
+ create mode 100644 src/types.ts
+ create mode 100644 src/utils.ts
+ create mode 100644 tsconfig.json
+ create mode 100644 vite.config.ts
+info: please complete authentication in your browser...
+Enumerating objects: 17, done.
+Counting objects: 100% (17/17), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (17/17), done.
+Writing objects: 100% (17/17), 44.01 Kigit config --global user.name "Alexis Acuña"
+>> git config --global user.email "alexisacunac@gmail.com"m 0)
+   https://github.com/Aac13129376alexisacunac/ToMeetAI.git
+                     main -> main
+                                                                                    
+                          ds\tomeetai> 
+
+ git commit -a                          
