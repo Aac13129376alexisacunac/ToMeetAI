@@ -563,7 +563,7 @@ export default function App() {
             </div>
             <div>
               <div className="flex items-center gap-2">
-                <h1 className="text-3xl font-serif italic text-[#B29235] tracking-tight">AcomodaAI</h1>
+                <h1 className="text-3xl font-serif italic text-[#B29235] tracking-tight">To Meet AI</h1>
                 <span className="text-[9px] bg-[#C5A852]/10 text-[#B29235] px-1.5 py-0.5 rounded font-mono border border-[#C5A852]/20 tracking-wider">v1.99 PRO</span>
               </div>
               <p className="text-xs text-slate-500 font-sans tracking-wide">{translations[lang].subtitle}</p>
@@ -1676,7 +1676,7 @@ export default function App() {
 
               <div className="flex items-center gap-2 text-[#B29235] mb-2">
                 <Sparkles className="w-4 h-4 animate-spin text-[#B29235]" />
-                <span className="text-xs font-mono font-bold tracking-widest uppercase">ACOMODAAI PREMIUM</span>
+                <span className="text-xs font-mono font-bold tracking-widest uppercase">TO MEET AI PREMIUM</span>
               </div>
 
               <h2 className="text-2xl font-serif italic text-[#B29235] tracking-tight">{translations[lang].modalHeader}</h2>

@@ -246,7 +246,7 @@ export const translations: Record<Language, Record<string, string>> = {
 
     // Banner alert
     alertTitle: "Configuración de Seguridad Social Activada",
-    alertText: "El sistema de AcomodaAI detecta palabras clave en el cuadro de texto como \"evitar\", \"ex-pareja\", \"odia\", y \"quiere con\" para recalcular la cohesión espacial e impedir catástrofes durante los brindis. Puedes editar la libreta de invitados a tu antojo.",
+    alertText: "El sistema de To Meet AI detecta palabras clave en el cuadro de texto como \"evitar\", \"ex-pareja\", \"odia\", y \"quiere con\" para recalcular la cohesión espacial e impedir catástrofes durante los brindis. Puedes editar la libreta de invitados a tu antojo.",
 
     // Guest Notebook Card
     notebookTitle: "1. Libreta de Invitados",
@@ -269,7 +269,7 @@ export const translations: Record<Language, Record<string, string>> = {
 
     // Solver state
     solvingTitle: "Procesando Restricciones",
-    solvingSubtitle: "El algoritmo de AcomodaAI está equilibrando afinidades ideales y apartando antagonistas.",
+    solvingSubtitle: "El algoritmo de To Meet AI está equilibrando afinidades ideales y apartando antagonistas.",
     step1: "Analizando cuaderno de comensales...",
     step2: "Identificando lazos de afinidad...",
     step3: "Estableciendo cordón de seguridad...",
@@ -299,7 +299,7 @@ export const translations: Record<Language, Record<string, string>> = {
 
     // Empty state
     emptyTitle: "Tu Salón de Eventos Digital",
-    emptyText: "Ingresa tu lista de invitados con sus peculiaridades a la izquierda y presiona el botón. AcomodaAI calculará la geometría divina del orden de sillas.",
+    emptyText: "Ingresa tu lista de invitados con sus peculiaridades a la izquierda y presiona el botón. To Meet AI calculará la geometría divina del orden de sillas.",
     emptyExampleBtn: "Resolver ejemplo de Amigos 🍷",
 
     // Feature highlights
@@ -311,13 +311,13 @@ export const translations: Record<Language, Record<string, string>> = {
     feat3Text: "Impide sobrecargar mesas únicamente con personas tímidas o silenciosas insertando al menos un \"animador de mesa\" para romper el hielo.",
 
     // Footer
-    footerSecured: "AcomodaAI es una herramienta offline totalmente segura. Los datos ingresados nunca salen de tu explorador.",
+    footerSecured: "To Meet AI es una herramienta offline totalmente segura. Los datos ingresados nunca salen de tu explorador.",
     footerSandbox: "Simuladores de Pago de Pruebas Seguras Integrados • AI Studio Build 2026",
 
     // Paywall Modal
     modalHeader: "Desbloquear Resumen",
     modalSub: "Adquiere el acceso de copia para exportar el diseño de tus mesas a WhatsApp y planillas con un solo clic.",
-    modalPromoTag: "ACOMODAAI PREMIUM",
+    modalPromoTag: "TO MEET AI PREMIUM",
     modalPriceLabel: "Pago único de licencia:",
     modalBenefitTitle: "¿Qué desbloqueará?",
     modalBenefit1: "Formato limpio para WhatsApp: Con listas ordenadas y emojis listos para copiar.",
@@ -353,7 +353,7 @@ export const translations: Record<Language, Record<string, string>> = {
     viewerSearchPlaceholder: "Escribe tu nombre para buscar...",
     viewerAllTables: "Todas las Mesas",
     viewerInteractivePlan: "Plano de Comensales Inteligente",
-    viewerWelcomeBack: "¡Bienvenido/a de vuelta a AcomodaAI! 💍",
+    viewerWelcomeBack: "¡Bienvenido/a de vuelta a To Meet AI! 💍",
     viewerBackToApp: "Volver al Planificador Principal 🛠️",
     viewerCongratulations: "¡Te encontramos! 🎟️ Estás en la mesa:",
     viewerDietLabel: "Menú Especial:",
@@ -374,7 +374,7 @@ export const translations: Record<Language, Record<string, string>> = {
 
     // Banner alert
     alertTitle: "Social Security Settings Activated",
-    alertText: "AcomodaAI scans lines for key terms like \"avoid\", \"ex-partner\", \"hates\", and \"with\" to recalculate spatial harmony and prevent toast disasters. Edit the guestlist freely.",
+    alertText: "To Meet AI scans lines for key terms like \"avoid\", \"ex-partner\", \"hates\", and \"with\" to recalculate spatial harmony and prevent toast disasters. Edit the guestlist freely.",
 
     // Guest Notebook Card
     notebookTitle: "1. Guestlist Registry",
@@ -397,7 +397,7 @@ export const translations: Record<Language, Record<string, string>> = {
 
     // Solver state
     solvingTitle: "Processing Constraints",
-    solvingSubtitle: "The AcomodaAI algorithm is balancing ideal affinities and separation rules.",
+    solvingSubtitle: "The To Meet AI algorithm is balancing ideal affinities and separation rules.",
     step1: "Analyzing guests notebooks...",
     step2: "Identifying affinity ties...",
     step3: "Establishing security boundary...",
@@ -439,13 +439,13 @@ export const translations: Record<Language, Record<string, string>> = {
     feat3Text: "Balances conversational personalities, ensuring shy guests are seated around at least one 'table animator' to spark easy chat.",
 
     // Footer
-    footerSecured: "AcomodaAI operates safely fully offline. Your guest data never leaves your browser.",
+    footerSecured: "To Meet AI operates safely fully offline. Your guest data never leaves your browser.",
     footerSandbox: "Integrated Secure Payment Sandbox Simulator • AI Studio Build 2026",
 
     // Paywall Modal
     modalHeader: "Unlock Summary Export",
     modalSub: "Acquire full copy permissions to easily export your clean table layout to WhatsApp and spreadsheets with a single tap.",
-    modalPromoTag: "ACOMODAAI PREMIUM",
+    modalPromoTag: "TO MEET AI PREMIUM",
     modalPriceLabel: "One-time license cost:",
     modalBenefitTitle: "What's included?",
     modalBenefit1: "Clean WhatsApp Format: Organized bullet points with elegant emojis ready to copy.",
@@ -481,7 +481,7 @@ export const translations: Record<Language, Record<string, string>> = {
     viewerSearchPlaceholder: "Type your name to search...",
     viewerAllTables: "All Tables",
     viewerInteractivePlan: "Smart Seating Map & Seating Card",
-    viewerWelcomeBack: "Welcome back to AcomodaAI! 💍",
+    viewerWelcomeBack: "Welcome back to To Meet AI! 💍",
     viewerBackToApp: "Back to Main Planner 🛠️",
     viewerCongratulations: "We found you! 🎟️ You are seated at:",
     viewerDietLabel: "Special Diet:",
@@ -502,7 +502,7 @@ export const translations: Record<Language, Record<string, string>> = {
 
     // Banner alert
     alertTitle: "Sécurité Sociale Activée",
-    alertText: "Le système AcomodaAI détecte les mots clés comme \"éviter\", \"ex-mari\", \"déteste\" et \"avec\" pour équilibrer la cohésion spatiale et empêcher les drames pendant les toasts. Modifiez le carnet à votre guise.",
+    alertText: "Le système To Meet AI détecte les mots clés comme \"éviter\", \"ex-mari\", \"déteste\" et \"avec\" pour équilibrer la cohésion spatiale et empêcher les drames pendant les toasts. Modifiez le carnet à votre guise.",
 
     // Guest Notebook Card
     notebookTitle: "1. Registre des Convives",
@@ -525,7 +525,7 @@ export const translations: Record<Language, Record<string, string>> = {
 
     // Solver state
     solvingTitle: "Traitement des Règles",
-    solvingSubtitle: "L'algorithme de AcomodaAI équilibre les affinités idéales et écarte les antagonistes.",
+    solvingSubtitle: "L'algorithme de To Meet AI équilibre les affinités idéales et écarte les antagonistes.",
     step1: "Analyse des listes d'invités...",
     step2: "Détermination des liaisons d'affinité...",
     step3: "Mise en place de la zone de sécurité d'exs...",
@@ -555,7 +555,7 @@ export const translations: Record<Language, Record<string, string>> = {
 
     // Empty state
     emptyTitle: "Votre Salon Événementiel Numérique",
-    emptyText: "Saisissez votre liste d'invités avec leurs traits à gauche, puis cliquez sur le bouton. AcomodaAI calculera la géométrie divine du placement.",
+    emptyText: "Saisissez votre liste d'invités avec leurs traits à gauche, puis cliquez sur le bouton. To Meet AI calculera la géométrie divine du placement.",
     emptyExampleBtn: "Essayer l'exemple des Amis 🍷",
 
     // Feature highlights
@@ -567,13 +567,13 @@ export const translations: Record<Language, Record<string, string>> = {
     feat3Text: "Équilibre les personnalités des tables, en intégrant au moins un 'animateur de table' pour relancer naturellement les discussions.",
 
     // Footer
-    footerSecured: "AcomodaAI est un outil entièrement sécurisé hors ligne. Vos données restent dans votre navigateur.",
+    footerSecured: "To Meet AI est un outil entièrement sécurisé hors ligne. Vos données restent dans votre navigateur.",
     footerSandbox: "Simulateur de Paiement de Prémices Sécurisé • AI Studio Build 2026",
 
     // Paywall Modal
     modalHeader: "Débloquer l'Export",
     modalSub: "Achetez les droits de copie pour exporter votre plan de table d'un clic vers WhatsApp ou votre tableur.",
-    modalPromoTag: "ACOMODAAI PREMIUM",
+    modalPromoTag: "TO MEET AI PREMIUM",
     modalPriceLabel: "Tarif de licence unique :",
     modalBenefitTitle: "Contenu du déblocage :",
     modalBenefit1: "Format propre pour WhatsApp : Listes bien ordonnées avec émoticônes.",
@@ -609,7 +609,7 @@ export const translations: Record<Language, Record<string, string>> = {
     viewerSearchPlaceholder: "Saisissez votre nom pour rechercher...",
     viewerAllTables: "Toutes les Tables",
     viewerInteractivePlan: "Plan Répartition Intelligent",
-    viewerWelcomeBack: "Bienvenue de retour sur AcomodaAI! 💍",
+    viewerWelcomeBack: "Bienvenue de retour sur To Meet AI! 💍",
     viewerBackToApp: "Retour au Planificateur Principal 🛠️",
     viewerCongratulations: "Nous vous avons trouvé ! 🎟️ Vous êtes placé à la :",
     viewerDietLabel: "Menu Spécial :",
