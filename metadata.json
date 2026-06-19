@@ -1,0 +1,6 @@
+{
+  "name": "ToMeetAI",
+  "description": "Distribución inteligente de mesas e invitados para eventos sin dramas ni conflictos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
